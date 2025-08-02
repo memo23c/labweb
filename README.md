@@ -1,2 +1,0 @@
-# labweb
-laboratortio
